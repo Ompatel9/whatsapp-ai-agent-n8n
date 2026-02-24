@@ -9,7 +9,7 @@ The system follows an event-driven architecture and demonstrates API integration
 
 ---
 
-## Architecture
+
 
 ## Architecture
 
