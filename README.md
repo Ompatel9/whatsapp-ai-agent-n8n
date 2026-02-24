@@ -11,8 +11,9 @@ The system follows an event-driven architecture and demonstrates API integration
 
 ## Architecture
 
-User → WhatsApp → Meta Cloud API → Webhook (ngrok) → n8n (Docker) → AI Model → WhatsApp Send API → User
+## Architecture
 
+![System Architecture](architecture.png)
 ---
 
 ## Tech Stack
